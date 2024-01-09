@@ -28,10 +28,10 @@ class HomeScreen:
         self.root.geometry(f"{window_width}x{window_height}")
 
     def login_click(self):
-        print("Button login pressed")
+        print("Button login pressed and eli is a genius wait whaaaaa")
     
     def register_blick(self):
-        print("Button register clicked") 
+        print("Button register clicked and no one likes evyatar") 
         
 if __name__ == "__main__":
     root = tk.Tk()
